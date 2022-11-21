@@ -12,10 +12,10 @@
 - <i>Bootstrap</i>
 - <i>JavaScript</i>
 
-<h2>You Can Reach Me There:</h2>
+<h2>&#128241; You Can Reach Me There:</h2>
 <a href="https://t.me/d1mkn"><img width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="telegram"></a> <a href="https://www.linkedin.com/in/dmytro-hubin-545697240/"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin"></a>
 
-<h2>My Stack:</h2>
+<h2>&#128450; My Stack:</h2>
 <p align="left">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1840.png" alt="html"> 
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/2/2148.png" alt="css">
