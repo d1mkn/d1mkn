@@ -8,7 +8,6 @@
 <!-- - <i>Currently:</i> Trainee Front End Developer <br> -->
 
 <h2>&#128214; I'm Currently Learning:</h2>
-- <i>Sass</i>
 - <i>Bootstrap</i>
 - <i>JavaScript</i>
 
