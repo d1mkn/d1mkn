@@ -8,7 +8,7 @@
 <!-- - <i>Currently:</i> Trainee Front End Developer <br> -->
 
 <h2>&#128214; I'm Currently Learning:</h2>
-- <i>JavaScript</i>
+- <i>PHP</i>
 
 <h2>&#128241; You Can Reach Me There:</h2>
 <a href="https://t.me/d1mkn"><img width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="telegram"></a> <a href="https://www.linkedin.com/in/dmytro-hubin-545697240/"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin"></a>
@@ -18,6 +18,7 @@
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1840.png" alt="html"> 
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/2/2148.png" alt="css">
 <img width="40" src="https://i.imgur.com/BbW2gx9.png" alt="sass">
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1492.png" alt="javascript">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1781.png" alt="photoshop">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968719.png" alt="figma">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" alt="github">
