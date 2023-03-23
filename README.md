@@ -15,13 +15,13 @@
 
 <h2>&#128450; My Stack:</h2>
 <p align="left">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1840.png" alt="html"> 
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/2/2148.png" alt="css">
-<img width="40" src="https://i.imgur.com/BbW2gx9.png" alt="sass">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1492.png" alt="javascript">
-<img width="40" src="https://www.svgrepo.com/show/150351/php-programming-language.svg" alt="php">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/1/1781.png" alt="photoshop">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968719.png" alt="figma">
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" alt="github">
+<img width="40" title="html" src="https://cdn-icons-png.flaticon.com/512/1/1840.png" alt="html"> 
+<img width="40" title="css" src="https://cdn-icons-png.flaticon.com/512/2/2148.png" alt="css">
+<img width="40" title="sass" src="https://i.imgur.com/BbW2gx9.png" alt="sass">
+<img width="40" title="javascript" src="https://cdn-icons-png.flaticon.com/512/1/1492.png" alt="javascript">
+<img width="40" title="php" src="https://www.svgrepo.com/show/150351/php-programming-language.svg" alt="php">
+<img width="40" title="mysql" src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql">
+<img width="40" title="photoshop" src="https://cdn-icons-png.flaticon.com/512/1/1781.png" alt="photoshop">
+<img width="40" title="figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968719.png" alt="figma">
+<img width="40" title="github" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" alt="github">
 </p>
