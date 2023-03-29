@@ -7,9 +7,9 @@
 <i>☄️ Future:</i> Front End Developer <br>
 <i>&#128214; I'm Currently Learning:</i> PHP
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=IceCream&theme=dark)](https://github.com/d1mkn/IceCream)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=weather-app&theme=dark)](https://github.com/d1mkn/weather-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=WebStudio&theme=dark)](https://github.com/d1mkn/WebStudio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=IceCream&theme=midnight-purple)](https://github.com/d1mkn/IceCream)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=weather-app&theme=midnight-purple)](https://github.com/d1mkn/weather-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=WebStudio&theme=midnight-purple)](https://github.com/d1mkn/WebStudio)
 
 <h2>&#128241; You Can Reach Me There:</h2>
 <a href="https://t.me/d1mkn"><img width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="telegram"></a> <a href="https://www.linkedin.com/in/dmytro-hubin-545697240/"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin"></a>
