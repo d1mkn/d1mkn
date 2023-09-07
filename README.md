@@ -8,7 +8,7 @@
 <i>&#128214; I'm Currently Learning:</i> React-->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=IceCream&theme=midnight-purple)](https://github.com/d1mkn/IceCream)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=weather-app&theme=midnight-purple)](https://github.com/d1mkn/weather-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DisRachik&repo=frontend-create-cocktail&theme=midnight-purple)](https://github.com/d1mkn/weather-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d1mkn&repo=WebStudio&theme=midnight-purple)](https://github.com/d1mkn/WebStudio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Serhii-Ivasiuk&repo=book-js-team-project&theme=midnight-purple)](https://github.com/Serhii-Ivasiuk/book-js-team-project)
 
